@@ -1,0 +1,11 @@
+{
+  "title": "GH Trade Hub — Import Fulfilment for Ghana",
+  "description": "From customer request to doorstep — professional import fulfilment, shipping coordination, customs support, and delivery in Ghana.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": true,
+    "ignoreReducedMotion": false
+  }
+}
